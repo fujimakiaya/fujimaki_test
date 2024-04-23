@@ -1,0 +1,2 @@
+# fujimaki_test
+test
